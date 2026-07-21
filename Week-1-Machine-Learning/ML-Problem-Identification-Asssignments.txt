@@ -1,0 +1,32 @@
+Hope Artificial Intelligence
+Scenario Based Learning
+A company works with number of employees, all the works are dependents on the employees. Even
+if one of the employees resign the job immediately then assigned work will be not finished at the
+time, so delivery of the project to the clients will be delayed. Company planned to make solution for
+this, they want to know which employee may resign next. If they know previously, they can arrange
+alternative to avoid such problem. As an AI Engineer you must give Solution to this.
+A) How will you achieve this in AI?
+B) Find out the 3 -Stage of Problem Identification
+C) Name the project
+D) Dummy
+
+A) How will you achieve this in AI?
+
+Every organisation collects quarterly or monthly feedback  or pulse check of the employees(like promotion, oppurtunity, learning,salary hike, work life balance). That list can be cross checked with the Employee who already quit and a seprate database can be made.
+Those data base can be used to train a model and predict if an employee will resign or not.
+
+B) Find out the 3 -Stage of Problem Identification
+
+Stage-1-Domain selection
+INPUT ==TEXT: So Natural language processing (NLP)
+Stage-2-Type of learning
+++Requirements clear (input and output is well defined):Supervised learning
+Stage-3-Type of problem:Classification
+
+C) Name the project
+Employee resignation predictor
+
+C) Dummy
+promotion, oppurtunity, learning, salary hike, work life balance –I/P
+Employee current status(deployed/resigned)-O/P
+
